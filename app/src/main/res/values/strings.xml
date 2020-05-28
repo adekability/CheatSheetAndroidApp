@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ineedmoney</string>
+    <string name="File">Файл</string>
+    <string name="About">Бағдарлама жайлы</string>
+    <string name="AddBase">Деректер қосу</string>
+    <string name="OpenBase">Деректер қорын ашу</string>
+    <string name="CreateBase">Жаңа деректер қорын құру</string>
+    <string name="Formulas">Формулалар</string>
+    <string name="Exit">Шығу</string>
+    <string name="Question">Name</string>
+    <string name="Answer">TextView</string>
+    <string name="answer">Name</string>
+    <string name="add">add</string>
+    <string name="question">question</string>
+    <string name="answer2">answer</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="question1">Question</string>
+    <string name="answer1">Answer</string>
+    <string name="shortcode">shortcode</string>
+    <string name="Shortcode">Shortcode</string>
+    <string name="search">search</string>
+    <string name="clear">Clear</string>
+    <string name="analysis">Анализ</string>
+    <string name="todo">TODO</string>
+    <string name="quest">Студентті тіркеу</string>
+    <string name="esep">Аты-жөні</string>
+    <string name="shortcod">Шорт-код</string>
+    <string name="izdeu">іздеу</string>
+    <string name="bosatu">босату</string>
+    <string name="tidi">TODO</string>
+    <string name="shortage">Факультеті/Мамандығы/тобы</string>
+    <string name="shortages">Шорт-код</string>
+    <string name="jauap">Жауап</string>
+    <string name="button">Button</string>
+    <string name="butt">Button</string>
+    <string name="google">Google-ден іздеу</string>
+    <string name="password">Құпия сөз</string>
+    <string name="loginButton">Жүйеге кіру</string>
+    <string name="loginBut">Жүйеге кіру</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
